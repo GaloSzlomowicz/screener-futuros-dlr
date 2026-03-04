@@ -176,6 +176,6 @@ El script solicita al iniciar:
 
 ## Author
 
-**unabomber1618** · [github.com/unabomber1618](https://github.com/unabomber1618)
+**galoszlomowicz** · [github.com/galoszlomowicz]((https://github.com/GaloSzlomowicz))
 
 > *Built for live trading on Argentine fixed income and FX futures markets.*
